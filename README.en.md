@@ -13,7 +13,7 @@
 * As the cognitive level increases, the understanding of LLVM IR will gradually deepen, and it is **difficult** to guarantee the completeness and correctness of this document.
 * This document is still written based on the [official LLVM Tutorial document](https://llvm.org/docs/tutorial/index.html), and will be written according to the outline of this tutorial, **supplemented and modified based on my own understanding and practical experience**.
 * MLIR is not the focus of this document, and may be briefly introduced in some chapters.
-* Although performance issues are an important indicator, the main focus here is on principle reproduction
+* Although performance issues are an important indicator, the main focus here is on principle reproduction, and irrelevant abstract concepts are avoided as much as possible to avoid over-complication
 
 ## Development Environment
 
