@@ -1,0 +1,27 @@
+{
+  "name": "llvm-tutorial-in-rust",
+  "version": "1.0.0",
+  "description": "LLVM tutorial base on Rust language",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaifuny/llvm-tutorial-in-rust.git"
+  },
+  "keywords": [
+    "llvm",
+    "llvm-tutorial",
+    "rust",
+    "kaleidoscope"
+  ],
+  "author": "Kaifuny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaifuny/llvm-tutorial-in-rust/issues"
+  },
+  "homepage": "https://github.com/Kaifuny/llvm-tutorial-in-rust#readme"
+}
