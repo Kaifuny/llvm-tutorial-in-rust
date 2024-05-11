@@ -4,7 +4,7 @@
 
 ## Motivation
 
-* Recently learning Rust language, and may need to study LLVM IR related knowledge due to work reasons.
+* Recently learning Rust language, but don't know what to do, and may need to study LLVM IR related knowledge due to work reasons.
 * [Official LLVM Tutorial Document](https://llvm.org/docs/tutorial/index.html), there are few Chinese translations
 * MLIR is a sub-project of LLVM, is the infrastructure of the artificial intelligence field, and also needs to understand the basic knowledge of LLVM IR
 

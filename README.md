@@ -4,7 +4,7 @@
 
 ## 动机
 
-* 最近学习 Rust 语言，并且由于工作原因可能需要，需要研究一下 LLVM IR 的相关知识。
+* 学习 Rust 语言不知道做什么好，并且由于工作原因可能需要研究一下 LLVM IR 的相关知识。
 * [官方 LLVM Tutorial 文档](https://llvm.org/docs/tutorial/index.html)，中文翻译比较少
 * MLIR 是 LLVM 的一个子项目，是人工智能领域基础设施，也需要了解 LLVM IR 的基础知识
 
