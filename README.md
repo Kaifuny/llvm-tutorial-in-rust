@@ -1,24 +1,24 @@
-# LLVM 指南 (基于Rust 语言)
+# LLVM Turorial (Based on Rust Language)
 
-[中文](README.md) [English](README.en.md)
+[Chinese](README.zh.md) [English](README.md)
 
-## 动机
+## Motivation
 
-* 学习 Rust 语言不知道做什么好，并且由于工作原因可能需要研究一下 LLVM IR 的相关知识。
-* [官方 LLVM Tutorial 文档](https://llvm.org/docs/tutorial/index.html)，中文翻译比较少
-* MLIR 是 LLVM 的一个子项目，是人工智能领域基础设施，也需要了解 LLVM IR 的基础知识
+* Recently learning Rust language, but don't know what to do, and may need to study LLVM IR related knowledge due to work reasons.
+* [Official LLVM Tutorial Document](https://llvm.org/docs/tutorial/index.html), there are few Chinese translations
+* MLIR is a sub-project of LLVM, is the infrastructure of the artificial intelligence field, and also needs to understand the basic knowledge of LLVM IR
 
-## 合理的预期
+## Reasonable Expectations
 
-* 随着认知水平提升，对于 LLVM IR 的理解会逐步加深，**很难**保证本文档的完整性和正确性。
-* 本文档基于 [官方 LLVM Tutorial 文档](https://llvm.org/docs/tutorial/index.html) 仍然会按照此教程的大纲进行编写，**会根据自己的理解和实践经验进行补充和修改**。
-* MLIR 并不是本文档的重点，可能会在一些章节进行简单介绍。
-* 虽然性能和工程问题是一个重要指标，这里主要以原理复现为主，尽量不引入无关抽象概念以避免过度复杂化
+* As the cognitive level increases, the understanding of LLVM IR will gradually deepen, and it is **difficult** to guarantee the completeness and correctness of this document.
+* This document is still written based on the [official LLVM Tutorial document](https://llvm.org/docs/tutorial/index.html), and will be written according to the outline of this tutorial, **supplemented and modified based on my own understanding and practical experience**.
+* MLIR is not the focus of this document, and may be briefly introduced in some chapters.
+* Although performance issues are an important indicator, the main focus here is on principle reproduction, and irrelevant abstract concepts are avoided as much as possible to avoid over-complication
 
-## 开发环境
+## Development Environment
 
 `TODO`
 
-## 参考资料
+## References
 
-详见文档末尾的参考资料部分以及标注的链接
+See the reference section at the end of the document and the annotated links
