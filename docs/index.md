@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/what-is-vitepress
+      link: /llvm-tutorial/
     - theme: alt
       text: View on GitHub
       link: https://github.com/kaifuny/llvm-tutorial-rust
