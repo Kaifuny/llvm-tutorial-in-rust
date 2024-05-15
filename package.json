@@ -6,7 +6,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Kaifuny/llvm-tutorial-in-rust/issues"
   },
-  "homepage": "https://github.com/Kaifuny/llvm-tutorial-in-rust#readme"
+  "homepage": "https://github.com/Kaifuny/llvm-tutorial-in-rust#readme",
+  "dependencies": {
+    "vitepress": "^1.1.4"
+  }
 }
