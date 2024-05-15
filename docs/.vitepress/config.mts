@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "LLVM 指南 (基于 Rust 语言)",
-  description: "LLVM 指南 (基于 Rust 语言)",
+  title: "LLVM",
+  description: "LLVM",
   base: "/llvm-tutorial-in-rust",
   themeConfig: {
     nav: [
