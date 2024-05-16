@@ -1,4 +1,4 @@
-# LLVM 指南 (基于Rust 语言)
+# LLVM 教程 (基于Rust 语言)
 
 [中文](README.zh.md) [English](README.md)
 

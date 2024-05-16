@@ -1,4 +1,4 @@
-# LLVM 指南：我的第一个语言前端
+# LLVM 教程：我的第一个语言前端
 
 > 参考及翻译自 [https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 
