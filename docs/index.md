@@ -10,7 +10,7 @@ hero:
       link: /llvm-tutorial/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/kaifuny/llvm-tutorial-rust
+      link: https://github.com/Kaifuny/llvm-tutorial-in-rust
 features:
   - icon: 🛠️
     title: Another cool feature
