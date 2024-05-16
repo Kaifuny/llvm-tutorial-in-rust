@@ -41,6 +41,7 @@ export default defineConfig({
         items: [
           {
             text: 'LLVM 入门教程',
+            link: '/',
             collapsed: false,
             items: [
               { text: '第一章：Kaleidoscope 语言与词法分析器', link: '/chapter1/' },
