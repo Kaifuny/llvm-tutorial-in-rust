@@ -18,7 +18,7 @@
 ## 开发环境
 
 当前本地开发环境
-* MacOS 14.4.1（M1 Max)
+* MacOS 14.4.1（Apple Silicon）
 * Rust 1.78.0
 * LLVM 18.1.5
 
