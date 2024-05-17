@@ -6,7 +6,7 @@ export default defineConfig({
   base: "/llvm-tutorial-in-rust",
   themeConfig: {
     nav: [
-      { text: 'LLVM 教程', link: '/llvm-tutorial/' },
+      { text: 'LLVM 教程 (Rust)', link: '/llvm-tutorial/' },
       { text: 'LLVM 官方地址链接', items: [
           { 
             text: 'Documentation', items: [
@@ -40,7 +40,7 @@ export default defineConfig({
         base: '/llvm-tutorial/',
         items: [
           {
-            text: 'LLVM 入门教程',
+            text: 'LLVM 入门教程 (Rust)',
             link: '/',
             collapsed: false,
             items: [
