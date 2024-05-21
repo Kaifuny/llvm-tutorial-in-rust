@@ -1,4 +1,4 @@
-# LLVM 指南 (基于Rust 语言)
+# LLVM 教程 (基于Rust 语言)
 
 [中文](README.zh.md) [English](README.md)
 
@@ -17,7 +17,10 @@
 
 ## 开发环境
 
-`TODO`
+当前本地开发环境
+* MacOS 14.4.1（Apple Silicon）
+* Rust 1.78.0
+* LLVM 18.1.5
 
 ## 参考资料
 

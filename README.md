@@ -17,7 +17,9 @@
 
 ## Development Environment
 
-`TODO`
+* MacOS 14.4.1 (Apple Silicon)
+* Rust 1.78.0
+* LLVM 18.1.5
 
 ## References
 
